@@ -1,0 +1,86 @@
+C:\Users\avnis\source\repos\EntityWithLinq\BusinessLayer\obj\Debug\BusinessLayer.csprojAssemblyReference.cache
+C:\Users\avnis\source\repos\EntityWithLinq\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\avnis\source\repos\EntityWithLinq\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\avnis\source\repos\EntityWithLinq\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\avnis\source\repos\EntityWithLinq\BusinessLayer\bin\Debug\DatabaseLayer.dll
+C:\Users\avnis\source\repos\EntityWithLinq\BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\avnis\source\repos\EntityWithLinq\BusinessLayer\bin\Debug\DatabaseLayer.pdb
+C:\Users\avnis\source\repos\EntityWithLinq\BusinessLayer\bin\Debug\DatabaseLayer.dll.config
+C:\Users\avnis\source\repos\EntityWithLinq\BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\avnis\source\repos\EntityWithLinq\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\avnis\source\repos\EntityWithLinq\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\avnis\source\repos\EntityWithLinq\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\Avnish\Desktop\EntityWithLinq\BusinessLayer\obj\Debug\BusinessLayer.csprojAssemblyReference.cache
+C:\Users\Avnish\Desktop\EntityWithLinq\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Avnish\Desktop\EntityWithLinq\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\Avnish\Desktop\EntityWithLinq\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\Avnish\Desktop\EntityWithLinq\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\Avnish\Desktop\EntityWithLinq\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\Avnish\Desktop\EntityWithLinq\BusinessLayer\bin\Debug\DatabaseLayer.dll
+C:\Users\Avnish\Desktop\EntityWithLinq\BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\Avnish\Desktop\EntityWithLinq\BusinessLayer\bin\Debug\DatabaseLayer.pdb
+C:\Users\Avnish\Desktop\EntityWithLinq\BusinessLayer\bin\Debug\DatabaseLayer.dll.config
+C:\Users\Avnish\Desktop\EntityWithLinq\BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\Avnish\Desktop\EntityWithLinq\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\avnis\Downloads\EntityWithLinq\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\avnis\Downloads\EntityWithLinq\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\avnis\Downloads\EntityWithLinq\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\avnis\Downloads\EntityWithLinq\BusinessLayer\bin\Debug\DatabaseLayer.dll
+C:\Users\avnis\Downloads\EntityWithLinq\BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\avnis\Downloads\EntityWithLinq\BusinessLayer\bin\Debug\DatabaseLayer.pdb
+C:\Users\avnis\Downloads\EntityWithLinq\BusinessLayer\bin\Debug\DatabaseLayer.dll.config
+C:\Users\avnis\Downloads\EntityWithLinq\BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\avnis\Downloads\EntityWithLinq\BusinessLayer\obj\Debug\BusinessLayer.csprojAssemblyReference.cache
+C:\Users\avnis\Downloads\EntityWithLinq\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\avnis\Downloads\EntityWithLinq\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\avnis\Downloads\EntityWithLinq\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\avnis\Downloads\25-dec-2018\DSD-06 Asp.net Entity Design pattern\EntityWithLinq\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\avnis\Downloads\25-dec-2018\DSD-06 Asp.net Entity Design pattern\EntityWithLinq\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\avnis\Downloads\25-dec-2018\DSD-06 Asp.net Entity Design pattern\EntityWithLinq\BusinessLayer\bin\Debug\DatabaseLayer.dll
+C:\Users\avnis\Downloads\25-dec-2018\DSD-06 Asp.net Entity Design pattern\EntityWithLinq\BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\avnis\Downloads\25-dec-2018\DSD-06 Asp.net Entity Design pattern\EntityWithLinq\BusinessLayer\bin\Debug\DatabaseLayer.pdb
+C:\Users\avnis\Downloads\25-dec-2018\DSD-06 Asp.net Entity Design pattern\EntityWithLinq\BusinessLayer\bin\Debug\DatabaseLayer.dll.config
+C:\Users\avnis\Downloads\25-dec-2018\DSD-06 Asp.net Entity Design pattern\EntityWithLinq\BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\avnis\Downloads\25-dec-2018\DSD-06 Asp.net Entity Design pattern\EntityWithLinq\BusinessLayer\obj\Debug\BusinessLayer.csprojAssemblyReference.cache
+C:\Users\avnis\Downloads\25-dec-2018\DSD-06 Asp.net Entity Design pattern\EntityWithLinq\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\avnis\Downloads\25-dec-2018\DSD-06 Asp.net Entity Design pattern\EntityWithLinq\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\avnis\Downloads\25-dec-2018\DSD-06 Asp.net Entity Design pattern\EntityWithLinq\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\avnis\Downloads\25-dec-2018\DSD-06 Asp.net Entity Design pattern\EntityWithLinq\BusinessLayer\obj\Debug\BusinessLayer.pdb
+D:\Private Work\New Zeland Project\EntityWithLinq\BusinessLayer\obj\Debug\BusinessLayer.csprojAssemblyReference.cache
+D:\Private Work\New Zeland Project\EntityWithLinq\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+D:\Private Work\New Zeland Project\EntityWithLinq\BusinessLayer\bin\Debug\BusinessLayer.dll.config
+D:\Private Work\New Zeland Project\EntityWithLinq\BusinessLayer\bin\Debug\BusinessLayer.dll
+D:\Private Work\New Zeland Project\EntityWithLinq\BusinessLayer\bin\Debug\BusinessLayer.pdb
+D:\Private Work\New Zeland Project\EntityWithLinq\BusinessLayer\bin\Debug\DatabaseLayer.dll
+D:\Private Work\New Zeland Project\EntityWithLinq\BusinessLayer\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\Private Work\New Zeland Project\EntityWithLinq\BusinessLayer\bin\Debug\Newtonsoft.Json.dll
+D:\Private Work\New Zeland Project\EntityWithLinq\BusinessLayer\bin\Debug\System.AppContext.dll
+D:\Private Work\New Zeland Project\EntityWithLinq\BusinessLayer\bin\Debug\System.Console.dll
+D:\Private Work\New Zeland Project\EntityWithLinq\BusinessLayer\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Private Work\New Zeland Project\EntityWithLinq\BusinessLayer\bin\Debug\System.Globalization.Calendars.dll
+D:\Private Work\New Zeland Project\EntityWithLinq\BusinessLayer\bin\Debug\System.IO.Compression.dll
+D:\Private Work\New Zeland Project\EntityWithLinq\BusinessLayer\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\Private Work\New Zeland Project\EntityWithLinq\BusinessLayer\bin\Debug\System.IO.FileSystem.dll
+D:\Private Work\New Zeland Project\EntityWithLinq\BusinessLayer\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\Private Work\New Zeland Project\EntityWithLinq\BusinessLayer\bin\Debug\System.Net.Http.dll
+D:\Private Work\New Zeland Project\EntityWithLinq\BusinessLayer\bin\Debug\System.Net.Sockets.dll
+D:\Private Work\New Zeland Project\EntityWithLinq\BusinessLayer\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Private Work\New Zeland Project\EntityWithLinq\BusinessLayer\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\Private Work\New Zeland Project\EntityWithLinq\BusinessLayer\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\Private Work\New Zeland Project\EntityWithLinq\BusinessLayer\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\Private Work\New Zeland Project\EntityWithLinq\BusinessLayer\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\Private Work\New Zeland Project\EntityWithLinq\BusinessLayer\bin\Debug\System.Xml.ReaderWriter.dll
+D:\Private Work\New Zeland Project\EntityWithLinq\BusinessLayer\bin\Debug\TinyPNG.dll
+D:\Private Work\New Zeland Project\EntityWithLinq\BusinessLayer\bin\Debug\EntityFramework.dll
+D:\Private Work\New Zeland Project\EntityWithLinq\BusinessLayer\bin\Debug\DatabaseLayer.pdb
+D:\Private Work\New Zeland Project\EntityWithLinq\BusinessLayer\bin\Debug\DatabaseLayer.dll.config
+D:\Private Work\New Zeland Project\EntityWithLinq\BusinessLayer\bin\Debug\Newtonsoft.Json.xml
+D:\Private Work\New Zeland Project\EntityWithLinq\BusinessLayer\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Private Work\New Zeland Project\EntityWithLinq\BusinessLayer\bin\Debug\EntityFramework.xml
+D:\Private Work\New Zeland Project\EntityWithLinq\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+D:\Private Work\New Zeland Project\EntityWithLinq\BusinessLayer\obj\Debug\BusinessLayer.dll
+D:\Private Work\New Zeland Project\EntityWithLinq\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\user\Desktop\22-jan-2019\BusinessLayer\obj\Debug\BusinessLayer.csprojAssemblyReference.cache
+C:\Users\user\Desktop\22-jan-2019\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\22-jan-2019\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\user\Desktop\22-jan-2019\BusinessLayer\obj\Debug\BusinessLayer.pdb
